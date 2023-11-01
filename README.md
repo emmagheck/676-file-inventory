@@ -9,3 +9,10 @@
 ### date created: November 1, 2023
 ## file-inventory.csv is a csv file containing the extracted information from the sample webfiles. 
 ### date created: November 1, 2023
+#### each column in the csv file contains a different kind of file information:
+##### name = file name
+##### relative_path = relative path to the file in directory
+##### file_extension = type of file
+##### modification_time = time file was last modified
+##### file_integrity = md5 checksum
+##### size = file size
